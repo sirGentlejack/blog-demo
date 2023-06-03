@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we you it ?it is along established fact that a reader will be distracted Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus consequatur commodi quod. Eius rem, odit quia non dolores incidunt vel odio veritatis doloremque at in exercitationem minima quae corrupti obcaecati debitis sed? Accusantium distinctio quae molestiae aliquam doloribus totam iusto. Excepturi, illum facere! Sunt id qui alias dolore iusto esse quas provident. Unde, earum minima ipsa iure adipisci, distinctio magni facilis voluptates repellendus atque veniam! Perspiciatis molestiae porro fuga nostrum optio nam aperiam quasi asperiores eos aspernatur explicabo quibusdam consequuntur ducimus tempora, eligendi quidem sunt minima accusantium vero debitis aliquam? Quibusdam at praesentium recusandae impedit quasi facilis ipsum temporibus.",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "In the beginning of it all the guy was so reckless that he never knew what was going on with him and his mom so he had to so to the place for it .Why do we you it ? lorem it is along established fact that a reader will be distracted Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ducimus consequatur commodi quod. Eius rem, odit quia non dolores incidunt vel odio veritatis doloremque at in exercitationem minima quae corrupti obcaecati debitis sed? Accusantium distinctio quae molestiae aliquam doloribus totam iusto. Excepturi, illum facere! Sunt id qui alias dolore iusto esse quas provident. Unde, earum minima ipsa iure adipisci, distinctio magni facilis voluptates repellendus atque veniam! Perspiciatis molestiae porro fuga nostrum optio nam aperiam quasi asperiores eos aspernatur explicabo quibusdam consequuntur ducimus tempora, eligendi quidem sunt minima accusantium vero debitis aliquam? Quibusdam at praesentium recusandae impedit quasi facilis ipsum temporibus.",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt pariatur, possimus laborum expedita velit laudantium. Unde perspiciatis sequi explicabo distinctio deserunt minus suscipit pariatur. Excepturi, dignissimos? Officia quasi, voluptatum porro quis, ab pariatur fugit tempora dignissimos cupiditate maiores perferendis cum ducimus optio soluta, repellendus dolorum facilis officiis sit quod dolor!",
+      "author": "Jack",
+      "id": 3
+    },
+    {
+      "title": "Biggest boy in town",
+      "body": "hmmmm , lets begin like this . emmauel is a guy thst attend a school called st joh secondary school etc..",
+      "author": "jack",
+      "id": 4
+    },
+    {
+      "title": "flexing`",
+      "body": "\"hmmmm , lets begin like this . emmauel is a guy thst attend a school called st joh secondary school etc..\",\n      ",
+      "author": "yoshi",
+      "id": 7
+    }
+  ]
+}
